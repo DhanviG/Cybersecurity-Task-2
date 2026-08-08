@@ -16,7 +16,7 @@ This task involved testing a vulnerable web application to understand how common
 ## Learning Outcome
 This task provided practical exposure to web application security testing and helped in understanding common vulnerabilities, their potential impact, and the importance of secure input validation and handling.
 
-📄 **[View Internship Report](./Task%202.pdf)**
+**[Task Report](./Task%202.pdf)**
 
 ## Disclaimer
 All security testing documented in this task was performed within an **authorized and controlled testing environment** for educational and cybersecurity training purposes.
